@@ -3,28 +3,28 @@
   gap: 80px;
   max-width: 984px;
   width: 100%;
-  margin: 92px 48px 0px;
+  padding-top: 92px;
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1152px) {
   .places {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 950px) {
   .places {
     max-width: 720px;
-    margin: 88px 24px 0px;
+    padding-top: 88px;
     gap: 73px;
   }
 }
 
-@media screen and (max-width: 535px) {
+@media screen and (max-width: 750px) {
   .places {
     max-width: 320px;
-    margin: 64px auto 0px;
+    padding-top: 64px;
     gap: 50px;
   }
 }

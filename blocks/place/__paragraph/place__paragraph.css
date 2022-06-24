@@ -8,12 +8,14 @@
 @media screen and (max-width: 1024px) {
   .place__paragraph {
     max-width: 456px;
+    gap: 27px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
     max-width: 352px;
+    gap: 25px;
   }
 }
 

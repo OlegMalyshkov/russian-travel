@@ -5,7 +5,3 @@
 .header__links-li:last-of-type {
   margin-right: 0;
 }
-
-.header__links-li:first-of-type {
-  text-decoration-line: underline;
-}
