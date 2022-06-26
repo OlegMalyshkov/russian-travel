@@ -40,6 +40,6 @@
 
 @media screen and (max-width: 590px) {
   .cover__link {
-    padding: 16px 33px;
+    padding: 33px 16px;
   }
 }
